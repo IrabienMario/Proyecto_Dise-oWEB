@@ -1,11 +1,12 @@
 # Proyecto_DiseñoWEB
 
 ## Colaboradores:
+
 - Mario Irabién Rodriguez  
-  ![Mario Irabién Rodriguez](assets/FotoMario.jpeg)
+  <img src="assets/FotoMario.jpg" alt="Mario Irabién Rodriguez" width="150">
 
 - Pinzon Rosado Mateo Isai  
-  ![Pinzon Rosado Mateo Isai](assets/FotoMateo.jpeg)
+  <img src="assets/FotoMateo.jpeg" alt="Pinzon Rosado Mateo Isai" width="150">
 
 - Gildardo Adrian Maldonado Santiago  
-  ![Gildardo Adrian Maldonado Santiago](assets/FotoGildardo.jpeg)
+  <img src="assets/FotoGildardo.jpeg" alt="Gildardo Adrian Maldonado Santiago" width="150">
